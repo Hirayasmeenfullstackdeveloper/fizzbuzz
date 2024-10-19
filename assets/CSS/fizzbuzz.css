@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+   
+    
+}
+.fizz{
+    color: white;
+    background-color: red;
+    /* border-radius: 10px; */
+
+}
+.buzz{
+    color: white;
+    background-color: blue;
+    /* border-radius: 10px; */
+}
+.fizzbuzz{
+    color: white;
+    background-color: green;
+    /* border-radius: 10px; */
+}
+#fizzbuzz{
+    border-radius: 10px;
+    box-shadow: 0 0 5px grey;
+    margin: 20px ;
+    padding: 20px;
+}
